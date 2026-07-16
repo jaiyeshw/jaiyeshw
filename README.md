@@ -21,28 +21,17 @@
   <img src="https://raw.githubusercontent.com/jaiyeshw/jaiyeshw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaiyeshw&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+## 📌 Featured Projects
+
+- 🤖 JARVIS AI Assistant
+- 🧮 Scientific Calculator
+- 🔐 Password Strength Checker
+- 🎣 Phishing URL Detector
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiyeshw&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jaiyeshw&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jaiyeshw&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/jaiyeshw)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**jaiyeshw/jaiyeshw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
