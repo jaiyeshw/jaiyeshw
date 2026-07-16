@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi I'm Jaiyesh Wadhwa👋
+
+### Computer Science Student | AI Enthusiast | Aspiring Cybersecurity Engineer
+
 # 💫 About Me:
 🔭 I'm currently working on JARVIS AI CHATBOT<br>👯 I’m looking to collaborate on Open Source AI, Cybersecurity, and Python Projects<br>🤝 I’m looking for help with scalable AI applications, cybersecurity research<br>🌱 I’m currently learning Linux, Networking, Cybersecurity, Python, React, Node.js and AI & Machine Learning<br>💬 Ask me about  AI Agents, Cybersecurity, Python, React, and Building Developer Projects.<br>⚡ Fun fact : I believe every project teaches something that no course can.
 
