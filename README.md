@@ -27,6 +27,7 @@
 - 🧮 Scientific Calculator
 - 🔐 Password Strength Checker
 - 🎣 Phishing URL Detector
+- 🛡️ Cybersecurity Monitoring Dashboard (Real-Time Threat Detection)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiyeshw&limit=5&theme=dark&combine_all_yearly_contributions=true)
