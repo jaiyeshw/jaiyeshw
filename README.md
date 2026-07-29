@@ -25,6 +25,7 @@
 
 - 🤖 JARVIS AI Assistant
 - 🧮 Scientific Calculator
+- ✅ React To-Do List App (Task Management)
 - 🔐 Password Strength Checker
 - 🎣 Phishing URL Detector
 - 🛡️ Cybersecurity Monitoring Dashboard (Real-Time Threat Detection)
